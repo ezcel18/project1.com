@@ -1,0 +1,28 @@
+# ignore all svn folders and files
+.svn
+.svn/*
+
+# tmp directory
+tmp
+tmp/*
+
+# client directory
+clients
+clients/*
+
+# client directory
+maintenance
+maintenance/*
+
+# sso directory
+lib/Tools/simplesamlphp/sso-client-lib
+lib/Tools/simplesamlphp/sso-client-lib/*
+lib/Tools/simplesamlphp/sso-client-lib2
+lib/Tools/simplesamlphp/sso-client-lib2/*
+#lib/Tools/simplesamlphp
+#lib/Tools/simplesamlphp/*
+
+# netbeans directory
+nbproject
+nbproject/*
+.DS_Store
